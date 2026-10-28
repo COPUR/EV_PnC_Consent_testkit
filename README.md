@@ -17,7 +17,7 @@ all (verification) (see `EV_PnC_Consent_docs`, specs from `roaming-consent/spec.
 
 ## Tech stack
 
-Kotlin + Cucumber, k6, OWASP ZAP
+Java + Cucumber, k6, OWASP ZAP
 
 ## Infrastructure (BOM)
 
